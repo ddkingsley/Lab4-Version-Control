@@ -1,1 +1,2 @@
 This is addfile_1 that does 1 stuff
+This is a new line in file 1
