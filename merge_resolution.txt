@@ -1,0 +1,14 @@
+Lab 4: Version Control
+
+Name - Github account name
+Daniel Kingsley - ddkingsley
+Greg Giordano - greg-giordano
+
+Log entry showing merge resolution:
+*   commit 0212bffadad03eff8e85e513990d66a5f6516e50 (HEAD -> master)
+|\  Merge: 478e728 ab6f5ad
+| | Author: ddkingsley <ddkingsley@gmail.com>
+| | Date:   Wed Jun 19 16:17:37 2019 -0600
+| | 
+| |     Merge branch 'master' of https://github.com/ddkingsley/Lab4-Version-Control
+| | 
